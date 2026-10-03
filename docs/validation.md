@@ -1,6 +1,6 @@
 # 数据校验脚本
 
-更新时间：2026-08-02
+更新时间：2026-09-27
 
 `scripts/validate-data.mjs` 是当前数据变更的第一道程序化检查。运行方式：
 
@@ -19,7 +19,7 @@ npm run check-generated
 成功时会输出类似：
 
 ```text
-Validated 464 players, 24 tournaments, 9 projects.
+Validated <players> players, <tournaments> tournaments, <projects> projects.
 ```
 
 ## 校验链路
@@ -44,7 +44,7 @@ flowchart LR
 - 必填字段：`id`、`name`、`local_name`、`names`、`country`、`birth_date`、`age_band`、`primary_position`、`registration_club`、`training_pathway`、`focus_tags`、`tournament_participation`、`external_links`、`verification`。
 - `birth_date` 和核验日期格式必须是 `YYYY-MM-DD`。
 - 多语言姓名块必须包含 `zh`、`en`、`native`，日本球员需 `ja`，韩国球员需 `ko`。
-- 中国、日本、韩国和乌兹别克斯坦 268 名球员必须具备 `native_verification`；`verified` 姓名必须有官方来源和合法语言标签，`unresolved` 不得写入推测的本土姓名。
+- 中国、日本、韩国和乌兹别克斯坦 293 名球员必须具备 `native_verification`；`verified` 姓名必须有官方来源和合法语言标签，`unresolved` 不得写入推测的本土姓名。
 - `registration_club.name` 和 `registration_club.country` 必须是字符串。
 - `training_pathway` 不能为空，每一步至少有 `stage_label`、`organization`、`country`。
 - `external_links` 不能为空，且每条必须有合法 `type`、`label`、`http/https url`。

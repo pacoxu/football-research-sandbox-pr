@@ -1,6 +1,6 @@
 # 文档入口
 
-更新时间：2026-07-18
+更新时间：2026-09-27
 
 ## 技术维护
 
@@ -25,6 +25,22 @@
 - [海外青训、球探与青年球员检索源目录](research/scouting-source-directory.md)
 - [比利亚雷亚尔 U19 梯队注册与年龄结构（2026/27）](research/villarreal-u19-registration-2026-27.md)
 - [中国足球联赛层级与地方城市联赛说明](research/china-league-pyramid-and-regional-super-leagues.md)
+- [中国足协体系、江苏城市联赛与青训路径](research/china-fa-system-and-jiangsu-city-league-youth.md)
+- [中国足球体系与 2034 杯赛树](research/china-football-system-and-2034-cup-tree.md)
+- [中国 U20 2025 比赛统计](research/china-u20-2025-match-statistics.md)
+- [中国 U23 2026 比赛统计](research/china-u23-2026-match-statistics.md)
+- [中国青年世界杯球员统计](research/china-youth-world-cup-player-stats.md)
+- [中国亚运会男足 2026](research/china-asian-games-men-2026.md)
+- [中国职业青训统计 2026](research/china-professional-youth-statistics-2026.md)
+- [中国留洋状态模型](research/china-overseas-status-model-issue-15.md)
+- [中国基层青训教练](research/china-grassroots-coaches-issue-12.md)
+- [中国球员五大联赛出场记录](research/china-big-five-appearance-records.md)
+- [亚洲教练扩展](research/asian-coaches-extension.md)
+- [上海明日之星冠军杯 2026](research/shanghai-future-star-cup-2026.md)
+- [青年欧冠参赛队与观察球员](research/issue-11-uefa-youth-league-entrants.md)
+- [青训项目名单与批次](research/issue-10-youth-project-rosters.md)
+- [Transfermarkt 身价覆盖](research/transfermarkt-market-value-coverage.md)
+- [乌兹别克斯坦青训与留洋路径](research/uzbekistan-youth-development-and-overseas-pathway.md)
 
 ## 变更记录
 
